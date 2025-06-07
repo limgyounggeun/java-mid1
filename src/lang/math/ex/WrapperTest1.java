@@ -1,4 +1,4 @@
-package lang.ex;
+package lang.math.ex;
 
 public class WrapperTest1 {
     public static void main(String[] args) {

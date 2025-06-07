@@ -1,4 +1,4 @@
-package lang.ex;
+package lang.math.ex;
 
 import java.util.Random;
 
